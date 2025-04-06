@@ -1,6 +1,8 @@
 
 # “Show Me How”: Benefits and Challenges of Agent-Augmented Counterfactual Explanations for Non-Expert Users
 
+![Teaser Image](teaser.png)
+
 **ABSTRACT**
 ```
 Counterfactual explanations offer actionable insights by illustrating how changes to inputs can lead to different outcomes. However, these explanations often suffer from ambiguity and impracticality, limiting their utility for non-expert users with limited AI knowledge. Augmenting counterfactual explanations with Large Language Models (LLMs) has been proposed as a solution, but little research has examined their benefits and challenges for non-experts. To address this gap, we developed a healthcare-focused system that leverages conversational AI agents to enhance counterfactual explanations, offering clear, actionable recommendations to help patients at high risk of cardiovascular disease (CVD) reduce their risk. Evaluated through a mixed-methods study with 34 participants, our findings highlight the effectiveness of agent-augmented counterfactuals in improving actionable recommendations. Results further indicate that users with prior experience using conversational AI demonstrated greater effectiveness in utilising these explanations compared to novices. Furthermore, this paper introduces a set of generic guidelines for creating augmented counterfactual explanations, incorporating safeguards to mitigate common LLM pitfalls, such as hallucinations, and ensuring the explanations are both actionable and contextually relevant for non-expert users.
