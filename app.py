@@ -119,7 +119,7 @@ if selected == "Dashboard":
 
     
     DATASET_PATH = "heart_2020_cleaned.parquet"
-    LOG_MODEL_PATH = "logistic_regression.pkl"
+    LOG_MODEL_PATH = "ml_model.pkl"
     log_model = pickle.load(open(LOG_MODEL_PATH, "rb"))
 
     #Gets random row from the dataset
