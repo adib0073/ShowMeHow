@@ -1,7 +1,7 @@
 
 # “Show Me How”: Benefits and Challenges of Agent-Augmented Counterfactual Explanations for Non-Expert Users
 
-![Teaser Image](teaser.png)
+![Teaser Image](teaser_image.png)
 
 **ABSTRACT**
 ```
